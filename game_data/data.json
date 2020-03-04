@@ -1,0 +1,496 @@
+{
+    "game": [
+        {   
+            "game_id": 0,
+            "title": "Umineko: When They Cry",
+            "qrating": "8/10",
+            "mrating": "N/A",
+            "dev_id": 2,
+            "pub_id": 2
+        },
+        {
+            "game_id": 1,
+            "title":"Fate/stay night",
+            "qrating":"9/10",
+            "mrating":"M",
+            "dev_id":0,
+            "pub_id":0
+
+        },
+        {
+            "game_id": 2,
+            "title":"The Walking Dead: Season 1",
+            "qrating":"8.6/10",
+            "mrating":"M",
+            "dev_id":1,
+            "pub_id":1
+        },
+        {
+            "game_id": 3,
+            "title":"Doki Doki Literature Club!",
+            "qrating":"9.5/10",
+            "mrating":"M",
+            "dev_id":3,
+            "pub_id":3
+        },
+        {
+            "game_id": 4,
+            "title":"Super Smash Bros. Brawl",
+            "qrating":"9.1/10",
+            "mrating":"T",
+            "dev_id":4,
+            "pub_id":4
+        },
+        {
+            "game_id": 5,
+            "title": "Super Smash Bros. Ultimate",
+            "qrating": "8.7/10",
+            "mrating": "T",
+            "dev_id":4,
+            "pub_id":4
+        },
+        {
+            "game_id": 6,
+            "title": "Pokémon Shield",
+            "qrating": "6.8/10",
+            "mrating": "E",
+            "dev_id": 5,
+            "pub_id": 5
+        },
+        {
+            "game_id": 7,
+            "title": "Pokémon Sword",
+            "qrating": "8.2/10",
+            "mrating": "E",
+            "dev_id": 5,
+            "pub_id": 5
+        },
+        {
+            "game_id": 8,
+            "title": "Raid: Shadow Legends",
+            "qrating": "N/A",
+            "mrating": "T",
+            "dev_id": 6,
+            "pub_id": 6
+        },
+        {
+            "game_id": 9,
+            "title": "Puzzle & Dragons",
+            "qrating": "N/A",
+            "mrating": "E",
+            "dev_id": 7,
+            "pub_id": 7
+        },
+        {
+            "game_id": 10,
+            "title": "Destiny: The Taken King",
+            "qrating": "9/10",
+            "mrating": "M",
+            "dev_id": 8,
+            "pub_id": 8
+        },
+        {
+            "game_id": 11,
+            "title": ""
+        }
+    ],
+
+    "dev": [
+        {
+            "dev_id": 0,
+            "devname": "Type-Moon",
+            "est": "1998"
+        },
+        {
+            "dev_id": 1,
+            "devname": "Telltale Games",
+            "est": "2004"
+        },
+        {
+            "dev_id": 2,
+            "devname": "07th Expansion",
+            "est": "2002"
+        },
+        {
+            "dev_id": 3,
+            "devname": "Team Salvato",
+            "est": "2017"
+        },
+        {
+            "dev_id": 4,
+            "devname": "Sora Ltd.",
+            "est": "2005"
+        },
+        {
+            "dev_id": 5,
+            "devname": "Game Freak",
+            "est": "1989"
+        },
+        {
+            "dev_id": 6,
+            "devname": "Plarium Global Ltd.",
+            "est": "2009"
+        },
+        {
+            "dev_id": 7,
+            "devname": "GungHo Online Entertainment, Inc.",
+            "est": "2002"
+        },
+        {
+            "dev_id": 8,
+            "devname": "Bungie",
+            "est": "1991"
+        }
+    ],
+
+    "publisher": [
+        {
+            "pub_id": 0,
+            "pubname":"Type-Moon",
+            "est": "1998"
+        },
+        {
+            "pub_id": 1,
+            "pubname": "Telltale Games",
+            "est": "2004"
+        },
+        {
+            "pub_id": 2,
+            "pubname": "07th Expansion",
+            "est": "2002"
+        },
+        {
+            "pub_id": 3,
+            "pubname": "Team Salvato",
+            "est": "2017"
+        },
+        {
+            "pub_id": 4,
+            "pubname": "Nintendo",
+            "est": "1916"
+        },
+        {
+            "pub_id": 5,
+            "pubname": "The Pokémon Company",
+            "est": "1998"
+        },
+        {
+            "pub_id": 6,
+            "pubname": "Plarium Global Ltd.",
+            "est": "2009"
+        },
+        {
+            "pub_id": 7,
+            "pubname": "GungHo Online Entertainment Inc.",
+            "est": "2002"
+        },
+        {
+            "pub_id": 8,
+            "pubname": "Activision",
+            "est": "1979"
+        }
+    ],
+
+    "genre": [
+        {
+            "id": 0,
+            "gname": "Visual Novel"
+        },
+        {
+            "id": 1,
+            "gname": "Action"
+        },
+        {
+            "id": 2,
+            "gname": "Adventure"
+        },
+        {
+            "id": 3,
+            "gname": "Sci-Fi"
+        },
+        {
+            "id": 4,
+            "gname": "Puzzle"
+        },
+        {
+            "id": 5,
+            "gname": "Shooter"
+        },
+        {
+            "id": 6,
+            "gname": "Role-Playing"
+        },
+        {
+            "id": 7,
+            "gname": "Strategy"
+        },
+        {
+            "id": 8,
+            "gname": "Survival"
+        },
+        {
+            "id": 9,
+            "gname": "Horror"
+        },
+        {
+            "id": 10,
+            "gname": "Sandbox"
+        },
+        {
+            "id": 11,
+            "gname": "Indie"
+        },
+        {
+            "id": 12,
+            "gname": "Simulation"
+        },
+        {
+            "id": 13,
+            "gname": "Sports"
+        },
+        {
+            "id": 14,
+            "gname": "Board Games"
+        },
+        {
+            "id": 15,
+            "gname": "Arcade"
+        },
+        {
+            "id": 16,
+            "gname": "Rhythm"
+        },
+        {
+            "id": 17,
+            "gname": "First Person Shooter"
+        },
+        {
+            "id": 18,
+            "gname": "Fantasy"
+        },
+        {
+            "id": 19,
+            "gname": "Fighting"
+        }
+    ],
+
+    "platform": [
+        {
+            "platformid": 0,
+            "pname": "XBox OG"
+        },
+        {
+            "platformid": 1,
+            "pname": "XBox 360"
+        },
+        {
+            "platformid": 2,
+            "pname": "XBox One"
+        },
+        {
+            "platformid": 3,
+            "pname": "PS1"
+        },
+        {
+            "platformid": 4,
+            "pname": "PS2"
+        },
+        {
+            "platformid": 5,
+            "pname": "PS3"
+        },
+        {
+            "platformid": 6,
+            "pname": "PS4"
+        },
+        {
+            "platformid": 7,
+            "pname": "PC"
+        },
+        {
+            "platformid": 8,
+            "pname": "Nintendo Wii"
+        },
+        {
+            "platformid": 9,
+            "pname": "Nintendo Switch"
+        },
+        {
+            "platformid": 10,
+            "pname": "IOS"
+        },
+        {
+            "platformid": 11,
+            "pname": "Android"
+        },
+        {
+            "platformid": 12,
+            "pname": "Mac"
+        }
+    ],
+
+    "game_genre": [
+        {
+            "genre_id": [0, 2, 9],
+            "game_id": 0
+        },
+        {
+            "genre_id": [0, 2, 18],
+            "game_id": 1
+        },
+        {
+            "genre_id": [0, 1, 2, 8, 9],
+            "game_id": 2
+        },
+        {
+            "genre_id": [0, 2, 11],
+            "game_id": 3
+        },
+        {
+            "genre_id": [1, 13, 18, 19],
+            "game_id": 4
+        },
+        {
+            "genre_id": [1, 18, 19],
+            "game_id": 5
+        },
+        {
+            "genre_id": [0, 6, 18],
+            "game_id": 6
+        },
+        {
+            "genre_id": [0, 6, 18],
+            "game_id": 7
+        },
+        {
+            "genre_id": [0, 7, 18],
+            "game_id": 8
+        },
+        {
+            "genre_id": [4, 6, 7],
+            "game_id": 9
+        },
+        {
+            "genre_id": [1, 2, 6],
+            "game_id": 10
+        }
+    ],
+
+    "game_platform": [
+        {
+            "plat_id": 7,
+            "game_id": 0,
+            "release_date": "08/17/2007"
+        },
+        {
+            "plat_id": 5,
+            "game_id": 0,
+            "release_date": "12/16/2010"
+        },
+        {
+            "plat_id": 10,
+            "game_id": 0,
+            "release_date": "03/13/2013"
+        },
+        {
+            "plat_id": 7,
+            "game_id": 1,
+            "release_date": "01/30/2004"
+        },
+        {
+            "plat_id": 4,
+            "game_id": 1,
+            "release_date": "04/19/2007"
+        },
+        {
+            "plat_id": 11,
+            "game_id": 1,
+            "release_date": "05/29/2015"
+        },
+        {
+            "plat_id": 10,
+            "game_id": 1,
+            "release_date": "04/18/2015"
+        },
+        {
+            "plat_id": 5,
+            "game_id": 2,
+            "release_date": "12/11/2012"
+        },
+        {
+            "plat_id": 7,
+            "game_id": 2,
+            "release_date": "12/11/2012"
+        },
+        {
+            "plat_id": 10,
+            "game_id": 2,
+            "release_date": "12/11/2012"
+        },
+        {
+            "plat_id": 12,
+            "game_id": 2,
+            "release_date": "12/11/2012"
+        },
+        {
+            "plat_id": 6,
+            "game_id": 2,
+            "release_date": "10/31/2014"
+        },
+        {
+            "plat_id": 7,
+            "game_id": 3,
+            "release_date": "09/22/2017"
+        },
+        {
+            "plat_id": 12,
+            "game_id": 3,
+            "release_date": "09/22/2017"
+        },
+        {
+            "plat_id": 8,
+            "game_id": 4,
+            "release_date": "01/24/2008"
+        },
+        {
+            "plat_id": 9,
+            "game_id": 5,
+            "release_date": "12/07/2018"
+        },
+        {
+            "plat_id": 9,
+            "game_id": 6,
+            "release_date": "11/15/2019"
+        },
+        {
+            "plat_id": 9,
+            "game_id": 7,
+            "release_date": "11/15/2019"
+        },
+        {
+            "plat_id": 10,
+            "game_id": 8,
+            "release_date": "01/01/2019"
+        },
+        {
+            "plat_id": 11,
+            "game_id": 8,
+            "release_date": "01/01/2019"
+        },
+        {
+            "plat_id": 10,
+            "game_id": 9,
+            "release_date": "11/08/2012"
+        },
+        {
+            "plat_id": 11,
+            "game_id": 9,
+            "release_date": "12/12/2012"
+        },
+        {
+            "plat_id": 5,
+            "game_id": 10,
+            "release_date": "10/15/2015"
+        }
+    ]
+}
