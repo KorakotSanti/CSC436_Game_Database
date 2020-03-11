@@ -36,7 +36,6 @@ platform_name varchar(30) not null
 );
 
 create table game_genre(
-id int primary key auto_increment,
 game_id int,
 genre_id int,
 foreign key(game_id) references game(game_id) on delete cascade,
@@ -44,7 +43,6 @@ foreign key(genre_id) references genre(genre_id) on delete cascade
 );
 
 create table game_platform(
-id int primary key auto_increment,
 game_id int not null,
 platform_id int not null,
 foreign key(game_id) references game(game_id) on delete cascade,
