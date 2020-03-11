@@ -1,0 +1,139 @@
+{
+    "publisher": [
+        {
+            "pub_id": 0,
+            "pubname":"Type-Moon",
+            "est": "1998"
+        },
+        {
+            "pub_id": 1,
+            "pubname": "Telltale Games",
+            "est": "2004"
+        },
+        {
+            "pub_id": 2,
+            "pubname": "07th Expansion",
+            "est": "2002"
+        },
+        {
+            "pub_id": 3,
+            "pubname": "Team Salvato",
+            "est": "2017"
+        },
+        {
+            "pub_id": 4,
+            "pubname": "Nintendo",
+            "est": "1916"
+        },
+        {
+            "pub_id": 5,
+            "pubname": "The Pokémon Company",
+            "est": "1998"
+        },
+        {
+            "pub_id": 6,
+            "pubname": "Plarium Global Ltd.",
+            "est": "2009"
+        },
+        {
+            "pub_id": 7,
+            "pubname": "GungHo Online Entertainment Inc.",
+            "est": "2002"
+        },
+        {
+            "pub_id": 8,
+            "pubname": "Activision",
+            "est": "1979"
+        },
+        {
+            "pub_id": 9,
+            "pubname": "Riot Games Inc.",
+            "est": "2006"
+        },
+        {
+            "pub_id": 10,
+            "pubname": "Sony Computer Entertainment, Inc.",
+            "est": "1993"
+        },
+        {
+            "pub_id": 11,
+            "pubname": "EA Sports BIG",
+            "est": "2000"
+        },
+        {
+            "pub_id": 12,
+            "pubname": "Microsoft Game Studios",
+            "est": "2002"
+        },
+        {
+            "pub_id": 13,
+            "pubname": "Psyonix",
+            "est": "2000"
+        },
+        {
+            "pub_id": 14,
+            "pubname": "Vivendi Universal",
+            "est": "1996"
+        },
+        {
+            "pub_id": 15,
+            "pubname": "Valve Corporation",
+            "est": "1996"
+        },
+        {
+            "pub_id": 16,
+            "pubname": "Epic Games",
+            "est": "1991"
+        },
+        {
+            "pub_id": 17,
+            "pubname": "Jagex Ltd. Games Studio",
+            "est": "2001"
+        },
+        {
+            "pub_id": 18,
+            "pubname": "Rockstar North",
+            "est": "2002"
+        },
+        {
+            "pub_id": 19,
+            "pubname": "Bandai Namco Entertainment",
+            "est": "2006"
+        },
+        {
+            "pub_id": 20,
+            "pubname": "Nokia",
+            "est": "1914"
+        },
+        {
+            "pub_id": 21,
+            "pubname": "Headup Games",
+            "est": "2009"
+        },
+        {
+            "pub_id": 22,
+            "pubname": "Dean 'ppy' Herbert",
+            "est": "2007"
+        },
+        {
+            "pub_id": 23,
+            "pubname": "Blizzard Entertainment",
+            "est": "1994"
+        },
+        {
+            "pub_id": 24,
+            "pubname": "2K Games",
+            "est": "2005"
+        },
+        {
+            "pub_id": 25,
+            "pubname": "Sega",
+            "est": "1960"
+        },
+        {
+            "pub_id": 26,
+            "pubname": "Electronic Arts",
+            "est": "1982"
+        }
+    ]
+}
