@@ -189,6 +189,56 @@
             "dev_id": 37,
             "devname": "FromSoftware",
             "est": "1986"
+        },
+        {
+            "dev_id": 38,
+            "devname": "Rockstar Studios",
+            "est": "1998"
+        },
+        {
+            "dev_id": 39,
+            "devname": "The Pokemon Company",
+            "est": "1998"
+        },
+        {
+            "dev_id": 40,
+            "devname": "Respawn Entertainment",
+            "est": "2010"
+        },
+        {
+            "dev_id": 41,
+            "devname": "PUBG Corp",
+            "est": "2017"
+        },
+        {
+            "dev_id": 42,
+            "devname": "id Software",
+            "est": "1991"
+        },
+        {
+            "dev_id": 43,
+            "devname": "Nintendo EAD Tokyo",
+            "est": "2002"
+        },
+        {
+            "dev_id": 44,
+            "devname": "Ubisoft Montreal",
+            "est": "1997"
+        },
+        {
+            "dev_id": 45,
+            "devname": "Mojang AB",
+            "est": "2009"
+        },
+        {
+            "dev_id": 46,
+            "devname": "Black Isle Studios",
+            "est": "1996"
+        },
+        {
+            "dev_id": 47,
+            "devname": "Bethesda Game Studios",
+            "est": "2001"
         }
     ]
 }

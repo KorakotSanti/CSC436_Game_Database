@@ -134,6 +134,46 @@
             "pub_id": 26,
             "pubname": "Electronic Arts",
             "est": "1982"
+        },
+        {
+            "pub_id": 27,
+            "pubname": "Rockstar Games",
+            "est": "1998"
+        },
+        {
+            "pub_id": 28,
+            "pubname": "Niantic Labs",
+            "est": "2010"
+        },
+        {
+            "pub_id": 29,
+            "pubname": "Bluehole Studio",
+            "est": "2007"
+        },
+        {
+            "pub_id": 30,
+            "pubname": "Bethesda Softworks LLC",
+            "est": "1986"
+        },
+        {
+            "pub_id": 31,
+            "pubname": "Ubisoft Entertainment",
+            "est": "1986"
+        },
+        {
+            "pub_id": 32,
+            "pubname": "Mojang AB",
+            "est": "2009"
+        },
+        {
+            "pub_id": 33,
+            "pubname": "Edusoft",
+            "est": "1989"
+        },
+        {
+            "pub_id": 34,
+            "pubname": "Interplay Entertainment",
+            "est": "1983"
         }
     ]
 }
