@@ -1,0 +1,194 @@
+{
+    "dev": [
+        {
+            "dev_id": 0,
+            "devname": "Type-Moon",
+            "est": "1998"
+        },
+        {
+            "dev_id": 1,
+            "devname": "Telltale Games",
+            "est": "2004"
+        },
+        {
+            "dev_id": 2,
+            "devname": "07th Expansion",
+            "est": "2002"
+        },
+        {
+            "dev_id": 3,
+            "devname": "Team Salvato",
+            "est": "2017"
+        },
+        {
+            "dev_id": 4,
+            "devname": "Sora Ltd.",
+            "est": "2005"
+        },
+        {
+            "dev_id": 5,
+            "devname": "Game Freak",
+            "est": "1989"
+        },
+        {
+            "dev_id": 6,
+            "devname": "Plarium Global Ltd.",
+            "est": "2009"
+        },
+        {
+            "dev_id": 7,
+            "devname": "GungHo Online Entertainment, Inc.",
+            "est": "2002"
+        },
+        {
+            "dev_id": 8,
+            "devname": "Bungie",
+            "est": "1991"
+        },
+        {
+            "dev_id": 9,
+            "devname": "Riot Games Inc.",
+            "est": "2006"
+        },
+        {
+            "dev_id": 10,
+            "devname": "SIE Santa Monica Studio",
+            "est": "1999"
+        },
+        {
+            "dev_id": 11,
+            "devname": "EA Canada",
+            "est": "1983"
+        },
+        {
+            "dev_id": 12,
+            "devname": "Arika Co., Ltd.",
+            "est": "1995"
+        },
+        {
+            "dev_id": 13,
+            "devname": "Psyonix",
+            "est": "2000"
+        },
+        {
+            "dev_id": 14,
+            "devname": "Valve Corporation",
+            "est": "1996"
+        },
+        {
+            "dev_id": 15,
+            "devname": "Epic Games",
+            "est": "1991"
+        },
+        {
+            "dev_id": 16,
+            "devname": "Jagex Ltd. Games Studio",
+            "est": "2001"
+        },
+        {
+            "dev_id": 17,
+            "devname": "Rockstar North",
+            "est": "2002"
+        },
+        {
+            "dev_id": 18,
+            "devname": "Dimps Corporation",
+            "est": "2000"
+        },
+        {
+            "dev_id": 19,
+            "devname": "Toys for Bob",
+            "est": "1989"
+        },
+        {
+            "dev_id": 20,
+            "devname": "Nokia",
+            "est": "1914"
+        },
+        {
+            "dev_id": 21,
+            "devname": "Re-Logic",
+            "est": "2011"
+        },
+        {
+            "dev_id": 22,
+            "devname": "Dean 'ppy' Herbert",
+            "est": "2007"
+        },
+        {
+            "dev_id": 23,
+            "devname": "Blizzard Entertainment",
+            "est": "1994"
+        },
+        {
+            "dev_id": 24,
+            "devname": "n-Space",
+            "est": "1994"
+        },
+        {
+            "dev_id": 25,
+            "devname": "Treyarch",
+            "est": "1996"
+        },
+        {
+            "dev_id": 26,
+            "devname": "Infinity Ward",
+            "est": "2002"
+        },
+        {
+            "dev_id": 27,
+            "devname": "Gearbox Software",
+            "est": "1999"
+        },
+        {
+            "dev_id": 28,
+            "devname": "Intelligent Systems Co., Ltd.",
+            "est": "1986"
+        },
+        {
+            "dev_id": 29,
+            "devname": "Nintendo EAD",
+            "est": "1980"
+        },
+        {
+            "dev_id": 30,
+            "devname": "Playground Games",
+            "est": "2010"
+        },
+        {
+            "dev_id": 31,
+            "devname": "CD Projekt RED",
+            "est": "2002"
+        },
+        {
+            "dev_id": 32,
+            "devname": "Neversoft Entertainment",
+            "est": "1994"
+        },
+        {
+            "dev_id": 33,
+            "devname": "Black Box Games",
+            "est": "1998"
+        },
+        {
+            "dev_id": 34,
+            "devname": "Maxis",
+            "est": "1987"
+        },
+        {
+            "dev_id": 35,
+            "devname": "The Sims Studio",
+            "est": "2006"
+        },
+        {
+            "dev_id": 36,
+            "devname": "Nintendo EPD",
+            "est": "2015"
+        },
+        {
+            "dev_id": 37,
+            "devname": "FromSoftware",
+            "est": "1986"
+        }
+    ]
+}
