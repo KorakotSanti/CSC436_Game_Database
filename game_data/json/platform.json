@@ -95,6 +95,22 @@
         {
             "platformid": 23,
             "pname": "Nintendo 64"
+        },
+        {
+            "platformid": 24,
+            "pname": "SteamVR"
+        },
+        {
+            "platformid": 25,
+            "pname": "PlayStation VR"
+        },
+        {
+            "platformid": 26,
+            "pname": "Oculus VR"
+        },
+        {
+            "platformid": 27,
+            "pname": "Windows Mixed Reality"
         }
     ]
 }

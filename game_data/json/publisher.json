@@ -174,6 +174,56 @@
             "pub_id": 34,
             "pubname": "Interplay Entertainment",
             "est": "1983"
+        },
+        {
+            "pub_id": 35,
+            "pubname": "WB Games",
+            "est": "1993"
+        },
+        {
+            "pub_id": 36,
+            "pubname": "Hyperbolic Magnetism",
+            "est": "1997"
+        },
+        {
+            "pub_id": 37,
+            "pubname": "Starbreeze Studios AB",
+            "est": "1998"
+        },
+        {
+            "pub_id": 38,
+            "pubname": "Edmund McMillen",
+            "est": "2008"
+        },
+        {
+            "pub_id": 39,
+            "pubname": "Sony Interactive Entertainment",
+            "est": "1993"
+        },
+        {
+            "pub_id": 40,
+            "pubname": "ConcernedApe",
+            "est": "2011"
+        },
+        {
+            "pub_id": 41,
+            "pubname": ".GEARS Studios",
+            "est": "2005"
+        },
+        {
+            "pub_id": 42,
+            "pubname": "Square Enix",
+            "est": "2003"
+        },
+        {
+            "pub_id": 43,
+            "pubname": "Larian Studios",
+            "est": "1996"
+        },
+        {
+            "pub_id": 44,
+            "pubname": "Battlestate Games",
+            "est": "2012"
         }
     ]
 }
