@@ -239,6 +239,81 @@
             "dev_id": 47,
             "devname": "Bethesda Game Studios",
             "est": "2001"
+        },
+        {
+            "dev_id": 48,
+            "devname": "Firaxis Games",
+            "est": "1996"
+        },
+        {
+            "dev_id": 49,
+            "devname": "NetherRealm Studios",
+            "est": "2010"
+        },
+        {
+            "dev_id": 50,
+            "devname": "Hyperbolic Magnetism",
+            "est": "1997"
+        },
+        {
+            "dev_id": 51,
+            "devname": "Behaviour Interactive",
+            "est": "1997"
+        },
+        {
+            "dev_id": 52,
+            "devname": "Edmund McMillen",
+            "est": "2008"
+        },
+        {
+            "dev_id": 53,
+            "devname": "Guerrilla Games",
+            "est": "2000"
+        },
+        {
+            "dev_id": 54,
+            "devname": "Insomniac Games",
+            "est": "1994"
+        },
+        {
+            "dev_id": 55,
+            "devname": "ConcernedApe",
+            "est": "2011"
+        },
+        {
+            "dev_id": 56,
+            "devname": "Irrational Games",
+            "est": "1997"
+        },
+        {
+            "dev_id": 57,
+            "devname": ".GEARS Studios",
+            "est": "2005"
+        },
+        {
+            "dev_id": 58,
+            "devname": "Crystal Dynamics",
+            "est": "1992"
+        },
+        {
+            "dev_id": 59,
+            "devname": "Larian Studios",
+            "est": "1996"
+        },
+        {
+            "dev_id": 60,
+            "devname": "MachineGames",
+            "est": "2009"
+        },
+        {
+            "dev_id": 61,
+            "devname": "Monolith Productions",
+            "est": "1994"
+        },
+        {
+            "dev_id": 62,
+            "devname": "Battlestate Games",
+            "est": "2012"
         }
     ]
 }

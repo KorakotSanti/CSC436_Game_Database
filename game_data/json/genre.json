@@ -54,7 +54,7 @@
         },
         {
             "id": 13,
-            "gname": "Sports"
+            "gname": "Sport"
         },
         {
             "id": 14,
@@ -91,6 +91,30 @@
         {
             "id": 22,
             "gname": "Music"
+        },
+        {
+            "id": 23,
+            "gname": "Platform"
+        },
+        {
+            "id": 24,
+            "gname": "Drama"
+        },
+        {
+            "id": 25,
+            "gname": "Thriller"
+        },
+        {
+            "id": 26,
+            "gname": "Open world"
+        },
+        {
+            "id": 27,
+            "gname": "Warfare"
+        },
+        {
+            "id": 28,
+            "gname": "Historical"
         }
     ]
 }

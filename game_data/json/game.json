@@ -83,8 +83,8 @@
         },
         {
             "game_id": 10,
-            "title": "Destiny: The Taken King",
-            "qrating": "9/10",
+            "title": "Destiny",
+            "qrating": "7.8/10",
             "mrating": "M",
             "dev_id": 8,
             "pub_id": 8
@@ -584,6 +584,206 @@
             "mrating": "M",
             "dev_id": 47,
             "pub_id": 30 
+        },
+        {
+            "game_id": 73,
+            "title": "XCOM: Enemy Unknown",
+            "qrating": "8.9/10",
+            "mrating": "M",
+            "dev_id": 48,
+            "pub_id": 24
+        },
+        {
+            "game_id": 74,
+            "title": "Tom Clancy's Rainbow Six: Siege",
+            "qrating": "8.0/10",
+            "mrating": "M",
+            "dev_id": 44,
+            "pub_id": 31
+        },
+        {
+            "game_id": 75,
+            "title": "Mortal Kombat X",
+            "qrating": "8.4/10",
+            "mrating": "M",
+            "dev_id": 49,
+            "pub_id": 35
+        },
+        {
+            "game_id": 76,
+            "title": "Beat Saber",
+            "qrating": "8.5/10",
+            "mrating": "E",
+            "dev_id": 50,
+            "pub_id": 36
+        },
+        {
+            "game_id": 77,
+            "title": "Legend of Zelda: Skyward Sword",
+            "qrating": "9.3/10",
+            "mrating": "E",
+            "dev_id": 29,
+            "pub_id": 4
+        },
+        {
+            "game_id": 78,
+            "title": "Injustice: Gods Among Us",
+            "qrating": "8.0/10",
+            "mrating": "T",
+            "dev_id": 49,
+            "pub_id": 35
+        },
+        {
+            "game_id": 79,
+            "title": "Injustice 2",
+            "qrating": "8.6/10",
+            "mrating": "T",
+            "dev_id": 49,
+            "pub_id": 35
+        },
+        {
+            "game_id": 80,
+            "title": "Dead by Daylight",
+            "qrating": "6.1/10",
+            "mrating": "M",
+            "dev_id": 51,
+            "pub_id": 37
+        },
+        {
+            "game_id": 81,
+            "title": "Super Mario Maker",
+            "qrating": "9.0/10",
+            "mrating": "E",
+            "dev_id": 29,
+            "pub_id": 4
+        },
+        {
+            "game_id": 82,
+            "title": "Super Mario Maker 2",
+            "qrating": "8.7/10",
+            "mrating": "E",
+            "dev_id": 36,
+            "pub_id": 4
+        },
+        {
+            "game_id": 83,
+            "title": "The Binding of Isaac",
+            "qrating": "8.4/10",
+            "mrating": "T",
+            "dev_id": 52,
+            "pub_id": 38
+        },
+        {
+            "game_id": 84,
+            "title": "Horizon Zero Dawn",
+            "qrating": "8.9/10",
+            "mrating": "T",
+            "dev_id": 53,
+            "pub_id": 10
+        },
+        {
+            "game_id": 85,
+            "title": "Marvel's Spider-Man",
+            "qrating": "9.0/10",
+            "mrating": "T",
+            "dev_id": 54,
+            "pub_id": 39
+        },
+        {
+            "game_id": 86,
+            "title": "Stardew Valley",
+            "qrating": "9.1/10",
+            "mrating": "E",
+            "dev_id": 55,
+            "pub_id": 40
+        },
+        {
+            "game_id": 87,
+            "title": "Bioshock Infinite",
+            "qrating": "9.3/10",
+            "mrating": "M",
+            "dev_id": 56,
+            "pub_id": 24
+        },
+        {
+            "game_id": 88,
+            "title": "Sid Meier's Civilization V",
+            "qrating": "8.7/10",
+            "mrating": "E",
+            "dev_id": 48,
+            "pub_id": 24
+        },
+        {
+            "game_id": 89,
+            "title": "Flappy Bird",
+            "qrating": "5.0/10",
+            "mrating": "E",
+            "dev_id": 57,
+            "pub_id": 41
+        },
+        {
+            "game_id": 90,
+            "title": "Tomb Raider",
+            "qrating": "8.5/10",
+            "mrating": "M",
+            "dev_id": 58,
+            "pub_id": 42
+        },
+        {
+            "game_id": 91,
+            "title": "Assassin's Creed",
+            "qrating": "8.1/10",
+            "mrating": "M",
+            "dev_id": 44,
+            "pub_id": 31
+        },
+        {
+            "game_id": 92,
+            "title": "Mario Kart 8",
+            "qrating": "9.1/10",
+            "mrating": "E",
+            "dev_id": 29,
+            "pub_id": 4
+        },
+        {
+            "game_id": 93,
+            "title": "Divinity: Original Sin",
+            "qrating": "8.7/10",
+            "mrating": "M",
+            "dev_id": 59,
+            "pub_id": 43
+        },
+        {
+            "game_id": 94,
+            "title": "Divinity: Original Sin II",
+            "qrating": "9.1/10",
+            "mrating": "M",
+            "dev_id": 59,
+            "pub_id": 43
+        },
+        {
+            "game_id": 95,
+            "title": "Wolfenstein: The New Order",
+            "qrating": "7.7/10",
+            "mrating": "M",
+            "dev_id": 60,
+            "pub_id": 30
+        },
+        {
+            "game_id": 96,
+            "title": "Middle Earth: Shadow of Mordor",
+            "qrating": "8.4/10",
+            "mrating": "M",
+            "dev_id": 61,
+            "pub_id": 35
+        },
+        {
+            "game_id": 97,
+            "title": "Escape From Tarkov",
+            "qrating": "8.8/10",
+            "mrating": "M",
+            "dev_id": 62,
+            "pub_id": 44
         }
     ]
 }
