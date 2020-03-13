@@ -119,6 +119,10 @@
         {
             "platformid": 29,
             "pname": "Nintendo DSi"
+        },
+        {
+            "platformid": 30,
+            "pname": "Amazon Fire TV"
         }
     ]
 }

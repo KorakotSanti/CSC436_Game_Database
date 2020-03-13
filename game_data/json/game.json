@@ -952,6 +952,110 @@
             "mrating": "E",
             "dev_id": 77,
             "pub_id": 58
+        },
+        {
+            "game_id": 119,
+            "title": "Trivia Crack",
+            "qrating": "9.0/10",
+            "mrating": "E",
+            "dev_id": 78,
+            "pub_id": 59
+        },
+        {
+            "game_id": 120,
+            "title": "World of Warcraft",
+            "qrating": "8.6/10",
+            "mrating": "T",
+            "dev_id": 23,
+            "pub_id": 23
+        },
+        {
+            "game_id": 121,
+            "title": "H1Z1: Battle Royale",
+            "qrating": "6.6/10",
+            "mrating": "T",
+            "dev_id": 80,
+            "pub_id": 61
+        },
+        {
+            "game_id": 122,
+            "title": "The Jackbox Party Pack",
+            "qrating": "7.4/10",
+            "mrating": "T",
+            "dev_id": 81,
+            "pub_id": 62
+        },
+        {
+            "game_id": 123,
+            "title": "Super Smash Bros. Melee",
+            "qrating": "10/10",
+            "mrating": "T",
+            "dev_id": 82,
+            "pub_id": 4
+        },
+        {
+            "game_id": 124,
+            "title": "Dragon Ball Z: KAKAROT",
+            "qrating": "7.7/10",
+            "mrating": "T",
+            "dev_id": 65,
+            "pub_id":19 
+        },
+        {
+            "game_id": 125,
+            "title": "Steins;Gate",
+            "qrating": "8.0/10",
+            "mrating": "M",
+            "dev_id": 83,
+            "pub_id": 63
+        },
+        {
+            "game_id": 126,
+            "title": "CLANNAD",
+            "qrating": "8.9/10",
+            "mrating": "M",
+            "dev_id": 84,
+            "pub_id": 64
+        },
+        {
+            "game_id": 127,
+            "title": "Shin Megami Tensei: Devil Survivor 2",
+            "qrating": "8.2/10",
+            "mrating": "T",
+            "dev_id": 85,
+            "pub_id": 65
+        },
+        {
+            "game_id": 128,
+            "title": "Angel Beats! -1st beat-",
+            "qrating": "NULL",
+            "mrating": "T",
+            "dev_id": 84,
+            "pub_id": 66
+        },
+        {
+            "game_id": 129,
+            "title": "Psycho-Pass: Mandatory Happiness",
+            "qrating": "7.8/10",
+            "mrating": "T",
+            "dev_id": 83,
+            "pub_id": 63
+        },
+        {
+            "game_id": 130,
+            "title": "Agar.io",
+            "qrating": "7.0/10",
+            "mrating": "E",
+            "dev_id": 86,
+            "pub_id": 67
+        },
+        {
+            "game_id": 131,
+            "title": "Town of Salem",
+            "qrating": "6.1/10",
+            "mrating": "T",
+            "dev_id": 87,
+            "pub_id": 68
         }
     ]
 }

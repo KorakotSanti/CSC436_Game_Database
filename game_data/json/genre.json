@@ -119,6 +119,14 @@
         {
             "id": 29,
             "gname": "Text"
+        },
+        {
+            "id": 30,
+            "gname": "Quiz/Trivia"
+        },
+        {
+            "id": 31,
+            "gname": "Mystery"
         }
     ]
 }

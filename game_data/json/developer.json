@@ -389,6 +389,56 @@
             "dev_id": 77,
             "devname": "PopCap Games",
             "est": "2000"
+        },
+        {
+            "dev_id": 78,
+            "devname": "Etermax",
+            "est": "2009"
+        },
+        {
+            "dev_id": 79,
+            "devname": "Sony Online Entertainment",
+            "est": "1995"
+        },
+        {
+            "dev_id": 80,
+            "devname": "Daybreak Game Company",
+            "est": "1997"
+        },
+        {
+            "dev_id": 81,
+            "devname": "Jackbox Games, Inc.",
+            "est": "1992"
+        },
+        {
+            "dev_id": 82,
+            "devname": "HAL Laboratory",
+            "est": "1980"
+        },
+        {
+            "dev_id": 83,
+            "devname": "5pb. Games",
+            "est": "2005"
+        },
+        {
+            "dev_id": 84,
+            "devname": "Key",
+            "est": "1998"
+        },
+        {
+            "dev_id": 85,
+            "devname": "Atlus",
+            "est": "1986"
+        },
+        {
+            "dev_id": 86,
+            "devname": "Matheus Valadares",
+            "est": "2015"
+        },
+        {
+            "dev_id": 87,
+            "devname": "BlankMediaGames",
+            "est": "2014"
         }
     ]
 }

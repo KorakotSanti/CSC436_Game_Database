@@ -294,6 +294,56 @@
             "pub_id": 58,
             "pubname": "PopCap Games",
             "est": "2000"
+        },
+        {
+            "pub_id": 59,
+            "pubname": "Etermax",
+            "est": "2009"
+        },
+        {
+            "pub_id": 60,
+            "pubname": "Sony Online Entertainment",
+            "est": "1995"
+        },
+        {
+            "pub_id": 61,
+            "pubname": "Daybreak Game Company",
+            "est": "1997"
+        },
+        {
+            "pub_id": 62,
+            "pubname": "Jackbox Games, Inc.",
+            "est": "1992"
+        },
+        {
+            "pub_id": 63,
+            "pubname": "5pb. Games",
+            "est": "2005"
+        },
+        {
+            "pub_id": 64,
+            "pubname": "Sekai Project",
+            "est": "2013"
+        },
+        {
+            "pub_id": 65,
+            "pubname": "Atlus",
+            "est": "1986"
+        },
+        {
+            "pub_id": 66,
+            "pubname": "Visual Arts",
+            "est": "1991"
+        },
+        {
+            "pub_id": 67,
+            "pubname": "Miniclip.com",
+            "est": "2001"
+        },
+        {
+            "pub_id": 68,
+            "pubname": "BlankMediaGames",
+            "est": "2014"
         }
     ]
 }
