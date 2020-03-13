@@ -314,6 +314,81 @@
             "dev_id": 62,
             "devname": "Battlestate Games",
             "est": "2012"
+        },
+        {
+            "dev_id": 63,
+            "devname": "Vicarious Visions",
+            "est": "1990"
+        },
+        {
+            "dev_id": 64,
+            "devname": "Wizet",
+            "est": "1999"
+        },
+        {
+            "dev_id": 65,
+            "devname": "CyberConnect2 Co., Ltd.",
+            "est": "2001"
+        },
+        {
+            "dev_id": 66,
+            "devname": "Halfbrick Studios",
+            "est": "2001"
+        },
+        {
+            "dev_id": 67,
+            "devname": "Lima Sky",
+            "est": "2008"
+        },
+        {
+            "dev_id": 68,
+            "devname": "Ndemic Creations",
+            "est": "2012"
+        },
+        {
+            "dev_id": 69,
+            "devname": "Gabriele Cirulli",
+            "est": "2014"
+        },
+        {
+            "dev_id": 70,
+            "devname": "Supercell",
+            "est": "2010"
+        },
+        {
+            "dev_id": 71,
+            "devname": "Imangi Studios",
+            "est": "2008"
+        },
+        {
+            "dev_id": 72,
+            "devname": "King",
+            "est": "2003"
+        },
+        {
+            "dev_id": 73,
+            "devname": "Roblox Corporation",
+            "est": "2004"
+        },
+        {
+            "dev_id": 74,
+            "devname": "Subset Games",
+            "est": "2011"
+        },
+        {
+            "dev_id": 75,
+            "devname": "Pearl Abyss",
+            "est": "2010"
+        },
+        {
+            "dev_id": 76,
+            "devname": "Omgpop",
+            "est": "2006"
+        },
+        {
+            "dev_id": 77,
+            "devname": "PopCap Games",
+            "est": "2000"
         }
     ]
 }

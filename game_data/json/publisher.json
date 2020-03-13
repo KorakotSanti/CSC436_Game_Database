@@ -224,6 +224,76 @@
             "pub_id": 44,
             "pubname": "Battlestate Games",
             "est": "2012"
+        },
+        {
+            "pub_id": 45,
+            "pubname": "Nexon Co. Ltd.",
+            "est": "1994"
+        },
+        {
+            "pub_id": 46,
+            "pubname": "Halfbrick Studios",
+            "est": "2001"
+        },
+        {
+            "pub_id": 47,
+            "pubname": "Lima Sky",
+            "est": "2008"
+        },
+        {
+            "pub_id": 48,
+            "pubname": "Ndemic Creations",
+            "est": "2012"
+        },
+        {
+            "pub_id": 49,
+            "pubname": "Solebon LLC",
+            "est": "2008"
+        },
+        {
+            "pub_id": 50,
+            "pubname": "Supercell",
+            "est": "2010"
+        },
+        {
+            "pub_id": 51,
+            "pubname": "Imangi Studios",
+            "est": "2008"
+        },
+        {
+            "pub_id": 52,
+            "pubname": "King",
+            "est": "2003"
+        },
+        {
+            "pub_id": 53,
+            "pubname": "Roblox Corporation",
+            "est": "2004"
+        },
+        {
+            "pub_id": 54,
+            "pubname": "Subset Games",
+            "est": "2011"
+        },
+        {
+            "pub_id": 55,
+            "pubname": "GameOn",
+            "est": "2002"
+        },
+        {
+            "pub_id": 56,
+            "pubname": "Pearl Abyss",
+            "est": "2010"
+        },
+        {
+            "pub_id": 57,
+            "pubname": "Omgpop",
+            "est": "2006"
+        },
+        {
+            "pub_id": 58,
+            "pubname": "PopCap Games",
+            "est": "2000"
         }
     ]
 }

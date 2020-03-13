@@ -4,7 +4,7 @@
             "game_id": 0,
             "title": "Umineko: When They Cry",
             "qrating": "8/10",
-            "mrating": "N/A",
+            "mrating": "M",
             "dev_id": 2,
             "pub_id": 2
         },
@@ -68,7 +68,7 @@
         {
             "game_id": 8,
             "title": "Raid: Shadow Legends",
-            "qrating": "N/A",
+            "qrating": "NULL",
             "mrating": "T",
             "dev_id": 6,
             "pub_id": 6
@@ -76,7 +76,7 @@
         {
             "game_id": 9,
             "title": "Puzzle & Dragons",
-            "qrating": "N/A",
+            "qrating": "NULL",
             "mrating": "E",
             "dev_id": 7,
             "pub_id": 7
@@ -92,8 +92,8 @@
         {
             "game_id": 11,
             "title": "Valorant (Project A)",
-            "qrating": "N/A",
-            "mrating": "N/A",
+            "qrating": "NULL",
+            "mrating": "NULL",
             "dev_id": 9,
             "pub_id": 9
         },
@@ -228,7 +228,7 @@
         {
             "game_id": 28,
             "title": "Snake",
-            "qrating": "N/A",
+            "qrating": "NULL",
             "mrating": "E",
             "dev_id": 20,
             "pub_id": 20
@@ -784,6 +784,174 @@
             "mrating": "M",
             "dev_id": 62,
             "pub_id": 44
+        },
+        {
+            "game_id": 98,
+            "title": "The Elder Scrolls V: Skyrim",
+            "qrating": "9.6/10",
+            "mrating": "M",
+            "dev_id": 47,
+            "pub_id": 30
+        },
+        {
+            "game_id": 99,
+            "title": "Crash Bandicoot N. Sane Trilogy",
+            "qrating": "7.8/10",
+            "mrating": "E",
+            "dev_id": 63,
+            "pub_id": 8
+        },
+        {
+            "game_id": 100,
+            "title": "Maplestory",
+            "qrating": "8.0/10",
+            "mrating": "E",
+            "dev_id": 64,
+            "pub_id": 45
+        },
+        {
+            "game_id": 101,
+            "title": "Naruto Shippuden: Ultimate Ninja Storm Revolution",
+            "qrating": "6.6/10",
+            "mrating": "T",
+            "dev_id": 65,
+            "pub_id": 19
+        },
+        {
+            "game_id": 102,
+            "title": "Fruit Ninja",
+            "qrating": "8.3/10",
+            "mrating": "E",
+            "dev_id": 66,
+            "pub_id": 46
+        },
+        {
+            "game_id": 103,
+            "title": "Doodle Jump",
+            "qrating": "7.0/10",
+            "mrating": "E",
+            "dev_id": 67,
+            "pub_id": 47
+        },
+        {
+            "game_id": 104,
+            "title": "Plague Inc.",
+            "qrating": "8.0/10",
+            "mrating": "T",
+            "dev_id": 68,
+            "pub_id": 48
+        },
+        {
+            "game_id": 105,
+            "title": "2048",
+            "qrating": "8.2/10",
+            "mrating": "E",
+            "dev_id": 69,
+            "pub_id": 49
+        },
+        {
+            "game_id": 106,
+            "title": "Hearthstone",
+            "qrating": "8.8/10",
+            "mrating": "T",
+            "dev_id": 23,
+            "pub_id": 23
+        },
+        {
+            "game_id": 107,
+            "title": "Clash of Clans",
+            "qrating": "6.5/10",
+            "mrating": "T",
+            "dev_id": 70,
+            "pub_id": 50
+        },
+        {
+            "game_id": 108,
+            "title": "Clash Royale",
+            "qrating": "7.6/10",
+            "mrating": "E",
+            "dev_id": 70,
+            "pub_id": 50
+        },
+        {
+            "game_id": 109,
+            "title": "Temple Run",
+            "qrating": "7.0/10",
+            "mrating": "E",
+            "dev_id": 71,
+            "pub_id": 51
+        },
+        {
+            "game_id": 110,
+            "title": "Candy Crush Saga",
+            "qrating": "4.7/10",
+            "mrating": "E",
+            "dev_id": 72,
+            "pub_id": 52
+        },
+        {
+            "game_id": 111,
+            "title": "Infinity Blade",
+            "qrating": "7.9/10",
+            "mrating": "T",
+            "dev_id": 15,
+            "pub_id": 16
+        },
+        {
+            "game_id": 112,
+            "title": "ROBLOX",
+            "qrating": "7.0/10",
+            "mrating": "E",
+            "dev_id": 73,
+            "pub_id": 53
+        },
+        {
+            "game_id": 113,
+            "title": "Brawl Stars",
+            "qrating": "7.2/10",
+            "mrating": "E",
+            "dev_id": 70,
+            "pub_id": 50
+        },
+        {
+            "game_id": 114,
+            "title": "FTL: Faster Than Light",
+            "qrating": "8.9/10",
+            "mrating": "T",
+            "dev_id": 74,
+            "pub_id": 54
+        },
+        {
+            "game_id": 115,
+            "title": "Black Desert Online Remastered",
+            "qrating": "7.5/10",
+            "mrating": "T",
+            "dev_id": 75,
+            "pub_id": 55
+        },
+        {
+            "game_id": 116,
+            "title": "Black Desert Mobile",
+            "qrating": "NULL",
+            "mrating": "T",
+            "dev_id": 75,
+            "pub_id": 56
+        },
+        {
+            "game_id": 117,
+            "title": "Draw Something",
+            "qrating": "8.0/10",
+            "mrating": "E",
+            "dev_id": 76,
+            "pub_id": 57
+        },
+        {
+            "game_id": 118,
+            "title": "Plants vs. Zombies",
+            "qrating": "8.5/10",
+            "mrating": "E",
+            "dev_id": 77,
+            "pub_id": 58
         }
     ]
 }
