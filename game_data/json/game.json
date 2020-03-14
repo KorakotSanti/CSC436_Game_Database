@@ -3,7 +3,7 @@
         {   
             "game_id": 0,
             "title": "Umineko: When They Cry",
-            "qrating": "8/10",
+            "qrating": "8.0/10",
             "mrating": "M",
             "dev_id": 2,
             "pub_id": 2
@@ -11,7 +11,7 @@
         {
             "game_id": 1,
             "title":"Fate/stay night",
-            "qrating":"9/10",
+            "qrating":"9.0/10",
             "mrating":"M",
             "dev_id":0,
             "pub_id":0
@@ -68,7 +68,7 @@
         {
             "game_id": 8,
             "title": "Raid: Shadow Legends",
-            "qrating": "NULL",
+            "qrating": null,
             "mrating": "T",
             "dev_id": 6,
             "pub_id": 6
@@ -76,7 +76,7 @@
         {
             "game_id": 9,
             "title": "Puzzle & Dragons",
-            "qrating": "NULL",
+            "qrating": null,
             "mrating": "E",
             "dev_id": 7,
             "pub_id": 7
@@ -92,8 +92,8 @@
         {
             "game_id": 11,
             "title": "Valorant (Project A)",
-            "qrating": "NULL",
-            "mrating": "NULL",
+            "qrating": null,
+            "mrating": null,
             "dev_id": 9,
             "pub_id": 9
         },
@@ -228,7 +228,7 @@
         {
             "game_id": 28,
             "title": "Snake",
-            "qrating": "NULL",
+            "qrating": null,
             "mrating": "E",
             "dev_id": 20,
             "pub_id": 20
@@ -932,7 +932,7 @@
         {
             "game_id": 116,
             "title": "Black Desert Mobile",
-            "qrating": "NULL",
+            "qrating": null,
             "mrating": "T",
             "dev_id": 75,
             "pub_id": 56
@@ -1028,7 +1028,7 @@
         {
             "game_id": 128,
             "title": "Angel Beats! -1st beat-",
-            "qrating": "NULL",
+            "qrating": null,
             "mrating": "T",
             "dev_id": 84,
             "pub_id": 66
@@ -1056,6 +1056,70 @@
             "mrating": "T",
             "dev_id": 87,
             "pub_id": 68
+        },
+        {
+            "game_id": 132,
+            "title": "Summoners War: Sky Arena",
+            "qrating": null,
+            "mrating": "T",
+            "dev_id": 88,
+            "pub_id": 69
+        },
+        {
+            "game_id": 133,
+            "title": "Pokemon Masters",
+            "qrating": "5.3/10",
+            "mrating": "E",
+            "dev_id": 89,
+            "pub_id": 5
+        },
+        {
+            "game_id": 134,
+            "title": "Pokemon Emerald",
+            "qrating": "6.0/10",
+            "mrating": "E",
+            "dev_id": 5,
+            "pub_id": 4
+        },
+        {
+            "game_id": 135,
+            "title": "Pokemon FireRed",
+            "qrating": "8.4/10",
+            "mrating": "E",
+            "dev_id": 5,
+            "pub_id": 4
+        },
+        {
+            "game_id": 136,
+            "title": "Pokemon Super Mystery Dungeon",
+            "qrating": "7.3/10",
+            "mrating": "E",
+            "dev_id": 90,
+            "pub_id": 4
+        },
+        {
+            "game_id": 137,
+            "title": "Pokemon XD: Gale of Darkness",
+            "qrating": "4.0/10",
+            "mrating": "E",
+            "dev_id": 91,
+            "pub_id": 4
+        },
+        {
+            "game_id": 138,
+            "title": "The Last of Us",
+            "qrating": "9.2/10",
+            "mrating": "M",
+            "dev_id": 92,
+            "pub_id": 10
+        },
+        {
+            "game_id": 139,
+            "title": "Super Meat Boy",
+            "qrating": "8.5/10",
+            "mrating": "T",
+            "dev_id": 93,
+            "pub_id": 70
         }
     ]
 }

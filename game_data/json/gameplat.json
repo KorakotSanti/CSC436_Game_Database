@@ -748,7 +748,7 @@
         {
             "plat_id": 4,
             "game_id": 46,
-            "release_date": "01/12/20023"
+            "release_date": "01/12/2003"
         },
         {
             "plat_id": 0,
@@ -2219,6 +2219,86 @@
             "plat_id": 10,
             "game_id": 131,
             "release_date": "10/14/2018"
+        },
+        {
+            "plat_id": 11,
+            "game_id": 132,
+            "release_date": "06/12/2014"
+        },
+        {
+            "plat_id": 10,
+            "game_id": 132,
+            "release_date": "06/12/2014"
+        },
+        {
+            "plat_id": 11,
+            "game_id": 133,
+            "release_date": "08/29/2019"
+        },
+        {
+            "plat_id": 10,
+            "game_id": 133,
+            "release_date": "08/29/2019"
+        },
+        {
+            "plat_id": 14,
+            "game_id": 134,
+            "release_date": "09/16/2004"
+        },
+        {
+            "plat_id": 14,
+            "game_id": 135,
+            "release_date": "01/29/2004"
+        },
+        {
+            "plat_id": 18,
+            "game_id": 136,
+            "release_date": "09/17/2015"
+        },
+        {
+            "plat_id": 13,
+            "game_id": 137,
+            "release_date": "10/03/2005"
+        },
+        {
+            "plat_id": 5,
+            "game_id": 138,
+            "release_date": "06/14/2013"
+        },
+        {
+            "plat_id": 7,
+            "game_id": 139,
+            "release_date": "11/30/2010"
+        },
+        {
+            "plat_id": 12,
+            "game_id": 139,
+            "release_date": "11/01/2011"
+        },
+        {
+            "plat_id": 15,
+            "game_id": 139,
+            "release_date": "12/01/2011"
+        },
+        {
+            "plat_id": 21,
+            "game_id": 139,
+            "release_date": "10/06/2015"
+        },
+        {
+            "plat_id": 6,
+            "game_id": 139,
+            "release_date": "10/06/2015"
+        },
+        {
+            "plat_id": 20,
+            "game_id": 139,
+            "release_date": "05/12/2016"
+        },
+        {
+            "plat_id": 9,
+            "game_id": 139,
+            "release_date": "01/11/2018"
         }
     ]
 }

@@ -344,6 +344,16 @@
             "pub_id": 68,
             "pubname": "BlankMediaGames",
             "est": "2014"
+        },
+        {
+            "pub_id": 69,
+            "pubname": "Com2uS",
+            "est": "1998"
+        },
+        {
+            "pub_id": 70,
+            "pubname": "Team Meat",
+            "est": "2008"
         }
     ]
 }

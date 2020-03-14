@@ -439,6 +439,36 @@
             "dev_id": 87,
             "devname": "BlankMediaGames",
             "est": "2014"
+        },
+        {
+            "dev_id": 88,
+            "devname": "Com2uS",
+            "est": "1998"
+        },
+        {
+            "dev_id": 89,
+            "devname": "DeNA",
+            "est": "1999"
+        },
+        {
+            "dev_id": 90,
+            "devname": "Spike ChunSoft",
+            "est": "2012"
+        },
+        {
+            "dev_id": 91,
+            "devname": "Genius Sonority",
+            "est": "2002"
+        },
+        {
+            "dev_id": 92,
+            "devname": "Naughty Dog",
+            "est": "1989"
+        },
+        {
+            "dev_id": 93,
+            "devname": "Team Meat",
+            "est": "2008"
         }
     ]
 }

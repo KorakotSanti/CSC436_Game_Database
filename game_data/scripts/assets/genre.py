@@ -1,22 +1,26 @@
 import mysql.connector
 import json
 
-class Platform:
+class Genre:
+    """
+    Genre data to mysql database
+    """
+
     def __init__(self):
-        with open('../json/platform.json') as f:
+        with open('../json/genre.json') as f:
             self.data = json.load(f)
 
     def insertDB(self, connection):
         cursor = connection.cursor()
 
 
-        sql_q = """ insert into platform
+        sql_q = """ insert into genre
                     values
                     (%s, %s)"""
         val = []
 
-        for item in self.data['platform']:
-            val += [(item['platformid'],item['pname'])]
+        for item in self.data['genre']:
+            val += [(item['id'],item['gname'])]
 
         cursor.executemany(sql_q,val)
 
