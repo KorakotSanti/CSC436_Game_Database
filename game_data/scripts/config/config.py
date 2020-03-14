@@ -1,7 +1,7 @@
 """
 Config file that stores information to access local database
 """
-username = "someusername"
-password = "somepassword"
+username = "username"
+password = "password"
 host = "localhost"
 db = 'game_database'
