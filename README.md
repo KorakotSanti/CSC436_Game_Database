@@ -20,3 +20,14 @@ On Bash
 =======================
 - be in CSC436_Game_Database directory and run
  - bash run.sh
+ 
+ 
+# Create initial game database
+- go to game_data/sql and execute the query in the sql file
+
+python script to add data to database
+========================
+- go to game_data/scripts directory
+- **pip install mysql-connector-python** to get the necessary library
+- go to the config file and change the username and password to your own
+- **python3 main.py** to run the scripts
