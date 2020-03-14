@@ -224,6 +224,136 @@
             "pub_id": 44,
             "pubname": "Battlestate Games",
             "est": "2012"
+        },
+        {
+            "pub_id": 45,
+            "pubname": "Nexon Co. Ltd.",
+            "est": "1994"
+        },
+        {
+            "pub_id": 46,
+            "pubname": "Halfbrick Studios",
+            "est": "2001"
+        },
+        {
+            "pub_id": 47,
+            "pubname": "Lima Sky",
+            "est": "2008"
+        },
+        {
+            "pub_id": 48,
+            "pubname": "Ndemic Creations",
+            "est": "2012"
+        },
+        {
+            "pub_id": 49,
+            "pubname": "Solebon LLC",
+            "est": "2008"
+        },
+        {
+            "pub_id": 50,
+            "pubname": "Supercell",
+            "est": "2010"
+        },
+        {
+            "pub_id": 51,
+            "pubname": "Imangi Studios",
+            "est": "2008"
+        },
+        {
+            "pub_id": 52,
+            "pubname": "King",
+            "est": "2003"
+        },
+        {
+            "pub_id": 53,
+            "pubname": "Roblox Corporation",
+            "est": "2004"
+        },
+        {
+            "pub_id": 54,
+            "pubname": "Subset Games",
+            "est": "2011"
+        },
+        {
+            "pub_id": 55,
+            "pubname": "GameOn",
+            "est": "2002"
+        },
+        {
+            "pub_id": 56,
+            "pubname": "Pearl Abyss",
+            "est": "2010"
+        },
+        {
+            "pub_id": 57,
+            "pubname": "Omgpop",
+            "est": "2006"
+        },
+        {
+            "pub_id": 58,
+            "pubname": "PopCap Games",
+            "est": "2000"
+        },
+        {
+            "pub_id": 59,
+            "pubname": "Etermax",
+            "est": "2009"
+        },
+        {
+            "pub_id": 60,
+            "pubname": "Sony Online Entertainment",
+            "est": "1995"
+        },
+        {
+            "pub_id": 61,
+            "pubname": "Daybreak Game Company",
+            "est": "1997"
+        },
+        {
+            "pub_id": 62,
+            "pubname": "Jackbox Games, Inc.",
+            "est": "1992"
+        },
+        {
+            "pub_id": 63,
+            "pubname": "5pb. Games",
+            "est": "2005"
+        },
+        {
+            "pub_id": 64,
+            "pubname": "Sekai Project",
+            "est": "2013"
+        },
+        {
+            "pub_id": 65,
+            "pubname": "Atlus",
+            "est": "1986"
+        },
+        {
+            "pub_id": 66,
+            "pubname": "Visual Arts",
+            "est": "1991"
+        },
+        {
+            "pub_id": 67,
+            "pubname": "Miniclip.com",
+            "est": "2001"
+        },
+        {
+            "pub_id": 68,
+            "pubname": "BlankMediaGames",
+            "est": "2014"
+        },
+        {
+            "pub_id": 69,
+            "pubname": "Com2uS",
+            "est": "1998"
+        },
+        {
+            "pub_id": 70,
+            "pubname": "Team Meat",
+            "est": "2008"
         }
     ]
 }

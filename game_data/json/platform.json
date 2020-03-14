@@ -111,6 +111,18 @@
         {
             "platformid": 27,
             "pname": "Windows Mixed Reality"
+        },
+        {
+            "platformid": 28,
+            "pname": "Windows Phone"
+        },
+        {
+            "platformid": 29,
+            "pname": "Nintendo DSi"
+        },
+        {
+            "platformid": 30,
+            "pname": "Amazon Fire TV"
         }
     ]
 }
