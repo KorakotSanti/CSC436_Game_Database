@@ -3,7 +3,6 @@ Video Game Database
 By: Pawel, Jacob, Korakot, Garrett, Cole
 */ 
 use game_database;
-
 select count(*) from game;
 
 /*
@@ -49,3 +48,9 @@ select game_name as "Mature Game"
 from game
 where m_rating = 'M'
 order by game_name;
+
+select * from developer;
+
+update developer
+set dev_name = "Nintendo BEST"
+where dev_name = "Nintendo EPD";

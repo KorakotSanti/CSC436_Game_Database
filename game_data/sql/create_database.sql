@@ -49,3 +49,11 @@ release_date char(10),
 foreign key(game_id) references game(game_id) on delete cascade,
 foreign key(platform_id) references platform(platform_id) on delete cascade
 );
+
+create index game_name
+on game(game_name);
+
+create view TheView as
+select game_id, game_name as Game, dev_name as Developer, pub_name as Publisher, q_rating as "Quality Rating", m_rating as Maturity
+from game left outer join developer on game.dev_id=developer.dev_id
+left outer join publisher on game.pub_id=publisher.pub_id;
