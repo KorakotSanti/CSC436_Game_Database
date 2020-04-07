@@ -7,7 +7,7 @@ class Game:
     """
 
     def __init__(self):
-        with open('../json/game.json') as f:
+        with open('newdata/game.json') as f:
             self.data = json.load(f)
 
     def insertDB(self, connection):

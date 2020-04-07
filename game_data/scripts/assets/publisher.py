@@ -7,7 +7,7 @@ class Publisher:
     """
 
     def __init__(self):
-        with open('../json/publisher.json') as f:
+        with open('newdata/publisher.json') as f:
             self.data = json.load(f)
 
     def insertDB(self, connection):

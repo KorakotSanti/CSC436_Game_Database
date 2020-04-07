@@ -7,7 +7,7 @@ class Platform:
     """
 
     def __init__(self):
-        with open('../json/platform.json') as f:
+        with open('newdata/platform.json') as f:
             self.data = json.load(f)
 
     def insertDB(self, connection):

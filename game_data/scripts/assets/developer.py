@@ -6,7 +6,7 @@ class Developer:
     Class to add developer data into the mysql database
     """
     def __init__(self):
-        with open('../json/developer.json') as f:
+        with open('newdata/developer.json') as f:
             self.data = json.load(f)
 
     def insertDB(self, connection):

@@ -6,7 +6,7 @@ class GamePlatform:
     Game's platform data to table into mysql database
     """
     def __init__(self):
-        with open('../json/gameplat.json') as f:
+        with open('newdata/gameplat.json') as f:
             self.data = json.load(f)
 
     def insertDB(self, connection):

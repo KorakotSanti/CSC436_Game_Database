@@ -6,7 +6,7 @@ class GameGenre:
     Game's Genre table data to mysql database
     """
     def __init__(self):
-        with open('../json/gamegenre.json') as f:
+        with open('newdata/gamegenre.json') as f:
             self.data = json.load(f)
 
     def insertDB(self, connection):
